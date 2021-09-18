@@ -1,4 +1,3 @@
-# [Miss Rose Bot](https://t.me/MissRose_bot)
 
 ### Deploy
 
